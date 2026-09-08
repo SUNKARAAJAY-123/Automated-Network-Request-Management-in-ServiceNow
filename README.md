@@ -8,7 +8,7 @@ The project is developed and demonstrated using a ServiceNow Personal Developer 
 
 **ServiceNow PDI:**
 
-[Open ServiceNow PDI](YOUR_SERVICENOW_PDI_LINK_HERE)
+[Open ServiceNow PDI](https://dev221892.service-now.com/SP)
 
 > **Note:** Access to the ServiceNow instance may require valid credentials and appropriate permissions. Do not publish usernames, passwords, API keys, or other confidential information.
 
