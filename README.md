@@ -90,6 +90,13 @@ ServiceNow reports and dashboards provide visibility into:
 - Fulfillment trends
 
 
+## Conclusion
+
+The **Automated Network Request Management in ServiceNow** project provides a simple and structured way to manage network-related service requests. By using Service Catalog, Flow Designer, approvals, notifications, SLA tracking, and basic JavaScript, the project reduces manual effort and improves request processing.
+
+The solution provides better visibility, faster fulfillment, standardized workflows, and proper tracking of requests from submission to closure.
+
+Overall, this project demonstrates how ServiceNow can be used to automate and manage network request processes efficiently in a ServiceNow PDI environment.
 ## High-Level Architecture
 
 ```text
@@ -136,12 +143,3 @@ ServiceNow reports and dashboards provide visibility into:
        │ Notifications│
        └──────────────┘
 --------------------------------------------------------------------------------------------------------------------------
-## Conclusion
-
-The **Automated Network Request Management in ServiceNow** project provides a simple and structured way to manage network-related service requests. By using Service Catalog, Flow Designer, approvals, notifications, SLA tracking, and basic JavaScript, the project reduces manual effort and improves request processing.
-
-The solution provides better visibility, faster fulfillment, standardized workflows, and proper tracking of requests from submission to closure.
-
-Overall, this project demonstrates how ServiceNow can be used to automate and manage network request processes efficiently in a ServiceNow PDI environment.
-
-
